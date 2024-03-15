@@ -36,6 +36,9 @@ public class ChessMatch {
 	private Piece makeMove(Position source, Position target) {
 		Piece p = board.removePiece(source);
 		Piece capturedPiece = board.removePiece(target);
+		if(capturedPiece == null) {
+			System.out.println("Ola mundo");
+		}
 		board.placePiece(p, target);
 		return capturedPiece;
 	}
