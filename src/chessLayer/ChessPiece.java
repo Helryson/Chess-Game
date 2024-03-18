@@ -2,8 +2,9 @@ package chessLayer;
 
 import boardLayer.Board;
 import boardLayer.Piece;
+import boardLayer.Position;
 
-public class ChessPiece extends Piece{
+public abstract class ChessPiece extends Piece{
 	
 	protected Color color;
 
@@ -16,4 +17,8 @@ public class ChessPiece extends Piece{
 		return color;
 	}
 
+	protected boolean isThereOpponentePiece(Position position) {
+		ChessPiece p = (ChessPiece)getBoard().piece(position);
+		return p != null && p.getColor() != color;
+	}
 }
