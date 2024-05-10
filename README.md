@@ -11,8 +11,7 @@ Bem-vindo ao nosso projeto de xadrez! Este projeto é uma implementação simple
 ## Recursos
 
 - Jogo de xadrez completo com todas as peças padrão
-- Opção para jogar online ou offline
-- Diferentes níveis de dificuldade para desafiar suas habilidades
+- Todas jogadas especiais incluidas, como en passant, promoção...
 - Interface amigável e intuitiva
 
 ## Como Jogar
