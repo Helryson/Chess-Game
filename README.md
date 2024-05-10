@@ -20,4 +20,4 @@ Bem-vindo ao nosso projeto de xadrez! Este projeto é uma implementação simple
 1. Clone este repositório para o seu computador usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/Helryson/Chess-Game.git
