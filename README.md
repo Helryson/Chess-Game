@@ -6,7 +6,7 @@
   <img src="imagens/xadrez2.png" alt="Imagem 3" style="width: 200px; height: auto; margin-right: 0;">
 </div>
 
-Bem-vindo ao meu projeto de xadrez! Este projeto é uma implementação simples de um jogo de xadrez que você pode localmente. Se você é um entusiasta do xadrez ou quer aprender a jogar, este modelo pode te ajudar!
+Bem-vindo ao meu projeto de xadrez! Este projeto é uma implementação simples de um jogo de xadrez que você pode jogar localmente. Se você é um entusiasta do xadrez ou quer aprender a jogar, este modelo pode te ajudar!
 
 ## Recursos
 
